@@ -1,5 +1,5 @@
 # Overview
-- Files included: Kernel_LolsuMini.asm, Game_Template.asm, Diagramm.pdf, docs.md, compile.sh, write_ic.sh, LICENSE.md
+- Files included: Kernel_LolsuMini.asm, Game_Template.asm, Diagramm.pdf, Component_List.md, docs.md, compile.sh, write_ic.sh, LICENSE.md
 - Date: 09.09.2023
 - Author: Leo Harter
 - Version: 1.0
@@ -7,6 +7,7 @@
 
 # Diagramm
 Diagramm.pdf shows the architecture of the LolsuMini. Anyone can easily build their own LolsuMini using the Schematic.
+In addition a component list is included for easy purchase of the necessary parts.
 
 # Scripts
 The two included scripts are used for compiling the .asm files and writing the machine code the the EEPROM.

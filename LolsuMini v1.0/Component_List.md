@@ -1,0 +1,17 @@
+- 1x W65C02S 8-Bit Microprocessor
+- 1x W65C22S Versatile Interface Adapter
+- 1x 28C64 EEPROM 8KB
+- 1x 6264 SRAM 8KB
+- 1x NE555 Timer IC
+- 1x 74HC00 Quad NAND-Gate
+- 1x 74LS08 Quad AND-Gate
+- 1x EA DOGL128L LCD-Graphical Module
+- 1x Quarz Oscillator 1,0 Mhz
+- 9x Short-stroke Button
+- 1x Toggle switch
+- 2x Capacitor 100nF
+- 9x Capacitor 1,0µF
+- 2x Resistor 150Ω
+- 10x Resistor 1kΩ
+- 2x Resistor 100kΩ
+- 2x Duo-LED 5mm rt/gn 2-Pin 30mcd 60°
